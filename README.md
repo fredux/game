@@ -1,2 +1,7 @@
 # game
-game em qt seguindo o tutorial https://github.com/MeLikeyCode/QtGameTutorial
+Jogo simples em qt seguindo o tutorial https://github.com/MeLikeyCode/QtGameTutorial
+Com modificações
+
+QT5
+
+
